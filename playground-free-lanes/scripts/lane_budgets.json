@@ -1,0 +1,9 @@
+{
+  "elevenlabs": {"monthly_budget": 100000, "nightly_batch_cap": 300, "unit": "credits", "note": "STEVE SET 2026-10-01: max 300 credits per nightly experiment batch", "set_by": "Steve", "set_at": "2026-09-30"},
+  "firefly": {"monthly_budget": 4000, "unit": "generative credits", "set_by": "Steve", "set_at": "2026-09-30"},
+  "capcut": {"monthly_budget": null, "unit": "tokens", "note": "amount TBD by Steve"},
+  "higgsfield": {"monthly_budget": 5000, "nightly_batch_cap": 100, "unit": "credits", "note": "~5000/mo per Steve; STEVE SET 2026-10-01: max 100 credits per nightly experiment batch. Soul IDs live on platform; verify balance live before trusting", "set_by": "Steve", "set_at": "2026-09-30"},
+  "topview": {"free_models": [], "monthly_budget": 50, "note": "ULTRA FREE LANE ENDED 2026-10-01 (Steve confirmed). STEVE SET 2026-10-01: max 50 credits per nightly experiment batch. Value picks: MiniMax H3 Max Turbo 0.1cr/s, Wan 3.0 0.3-1.1cr/s, Seedance 2.0 Mini 0.28-1cr/s. Balance ~792. Full pricing: references/topview_pricing.md"},
+  "a2e": {"free_models": ["v1 models only"], "paid_trap": "A2E v2"},
+  "perchance": {"unmetered": true, "login": "never"}
+}
